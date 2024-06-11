@@ -12,7 +12,12 @@ module.exports = {
   },
 
   head,
-  plugins: [
+  plugins,
+  themeConfig,
+};
+
+
+plugins: [
     [
       "vuepress-plugin-vssue-global",
       {
@@ -27,8 +32,4 @@ module.exports = {
         repo: "blog",
       },
     ],
-  ],
-  themeConfig,
-};
-
-
+  ]
