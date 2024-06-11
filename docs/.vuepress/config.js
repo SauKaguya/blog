@@ -12,13 +12,7 @@ module.exports = {
   },
 
   head,
-  plugins,
-  themeConfig,
-};
-
-
-// vssue 评论插件
-  plugins: [
+  plugins:[
     [
       "vuepress-plugin-vssue-global",
       {
@@ -33,4 +27,8 @@ module.exports = {
         repo: "blog",
       },
     ],
-  ]
+  ],
+  themeConfig,
+};
+
+

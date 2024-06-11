@@ -17,8 +17,8 @@ module.exports = {
 
   //*** 以下配置是Vdoing主题改动和新增的配置 ***//
 
-  category: false, // 是否打开分类功能，默认true。 如打开，会做的事情有：1. 自动生成的frontmatter包含分类字段 2.页面中显示与分类相关的信息和模块 3.自动生成分类页面（在@pages文件夹）。如关闭，则反之。
-  tag: false, // 是否打开标签功能，默认true。 如打开，会做的事情有：1. 自动生成的frontmatter包含标签字段 2.页面中显示与标签相关的信息和模块 3.自动生成标签页面（在@pages文件夹）。如关闭，则反之。
+  category: true, // 是否打开分类功能，默认true。 如打开，会做的事情有：1. 自动生成的frontmatter包含分类字段 2.页面中显示与分类相关的信息和模块 3.自动生成分类页面（在@pages文件夹）。如关闭，则反之。
+  tag: true // 是否打开标签功能，默认true。 如打开，会做的事情有：1. 自动生成的frontmatter包含标签字段 2.页面中显示与标签相关的信息和模块 3.自动生成标签页面（在@pages文件夹）。如关闭，则反之。
   // archive: false, // 是否打开归档功能，默认true。 如打开，会做的事情有：1.自动生成归档页面（在@pages文件夹）。如关闭，则反之。
   // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
 
@@ -41,8 +41,8 @@ module.exports = {
   },
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: "二丫讲梵", // 必需
-    link: "https://github.com/eryajf", // 可选的
+    name: "Suakaguya", // 必需
+    link: "https://github.com/saukaguya", // 可选的
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -51,23 +51,23 @@ module.exports = {
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/eryajf",
+        link: "https://github.com/saukaguya",
       },
       {
         iconClass: "icon-youjian",
         title: "发邮件",
-        link: "mailto:eryajf@163.com",
+        link: "saukaguya0101@gmail.com",
       },
       {
         iconClass: "icon-gitee",
         title: "Gitee",
-        link: "https://gitee.com/eryajf",
+        link: "https://gitee.com/saukaguya",
       },
     ],
   },
   footer: {
     // 页脚信息
-    createYear: 2022, // 博客创建年份
+    createYear: 2024, // 博客创建年份
     copyrightInfo:
       'Eryajf | <a href="https://github.com/eryajf/blog/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   },
