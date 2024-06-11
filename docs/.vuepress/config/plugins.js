@@ -34,7 +34,7 @@ module.exports = [
       autoCreateIssue: true,
       clientId: "adb9fb0ac1159e00ce7f",
       clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
-      owner: "eryajf",
+      owner: "saukaguya",
       repo: "blog",
     },
   ],
