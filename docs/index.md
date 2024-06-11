@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.jsdelivr.net/gh/saukaguya/tu/img/myavatar.jpg
+heroImage: https://cdn.jsdelivr.net/gh/saukaguya/tu/image/myavatar.jpg
 tagline: 为天地立心，为生民立命，为往圣继绝学，为万世开太平
 heroText: Kaguya's Blog
 actionText: 开始浏览 →
