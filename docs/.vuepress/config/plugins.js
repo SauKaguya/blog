@@ -29,9 +29,9 @@ module.exports = [
       needComments: true,
       // 其他的 Vssue 配置
       autoCreateIssue: true,
-      clientId: "adb9fb0ac1159e00ce7f",
-      clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
-      owner: "eryajf",
+      clientId: "Ov23liJLknOLIfX9bRnh",
+      clientSecret: "5309d1408f85df7cdc59b7c745bd154afc3ed939",
+      owner: "saukaguya",
       repo: "blog",
     },
   ],
