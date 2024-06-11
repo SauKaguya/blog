@@ -41,7 +41,7 @@ module.exports = {
   },
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: "Suakaguya", // 必需
+    name: "Saukaguya", // 必需
     link: "https://github.com/saukaguya", // 可选的
   },
   social: {
