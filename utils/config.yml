@@ -14,3 +14,9 @@ data:
   # author:
   #   name: xugaoyi
   #   link: https://github.com/xugaoyi
+
+plugins:
+  - jekyll-feed
+title: Kaguya's Blog
+description: Welcome to my blog
+author: Sau Kaguya
